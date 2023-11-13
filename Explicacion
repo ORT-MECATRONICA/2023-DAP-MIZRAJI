@@ -1,0 +1,3 @@
+Nos basamos en nuestra aplicacion de proyecto final
+Tuvimos que cambiar como leiamos los pacientes del recycler view de realtime database para que sea con firebase
+No lee datos de entramientos, solo muestra pacientes, te deja agragar y borrarlos
